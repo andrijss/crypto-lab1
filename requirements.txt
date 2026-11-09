@@ -1,0 +1,4 @@
+pycryptodome>=3.21,<4
+Pillow>=11,<13
+psutil>=6,<8
+pytest>=8,<10

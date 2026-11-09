@@ -1,0 +1,11 @@
+{
+  "platform": "macOS-26.2-arm64-arm-64bit-Mach-O",
+  "python": "3.13.5 (main, Jun 12 2025, 12:22:43) [Clang 20.1.4 ]",
+  "cpu": "arm",
+  "logical_cpus": 10,
+  "physical_cpus": 10,
+  "ram_bytes": 17179869184,
+  "runs": 5,
+  "memory": "Fresh-process maximum parent RSS; child RSS is not included",
+  "io": "Total minus crypto includes preparation, hash pass and pool lifecycle"
+}
